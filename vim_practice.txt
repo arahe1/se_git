@@ -1,2 +1,3 @@
 this is vim practice
 Adding a new line
+third line
